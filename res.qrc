@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style/style.qss</file>
+        <file>Icon/create.png</file>
+        <file>Icon/open.png</file>
+        <file>Icon/Music.png</file>
+        <file>Icon/Album.png</file>
+        <file>Icon/dir.png</file>
+        <file>Icon/down.png</file>
+        <file>Icon/Right.png</file>
+        <file>Icon/import.png</file>
+        <file>Icon/项目设置—项目管理.png</file>
+        <file>Icon/slide.png</file>
+        <file>Icon/关闭 (1).png</file>
+    </qresource>
+</RCC>

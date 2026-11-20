@@ -1,0 +1,34 @@
+# 构建输出
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.idb
+*.ilk
+*.tlog
+moc_*/
+qrc_*/
+ui_*/
+
+# Qt Creator 本地用户配置
+CMakeLists.txt.user
+*.autosave
+
+# IDE / 操作系统
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# 软件著作权申报材料：仅本地保留，不上传
+*.docx
+docs/软著材料/
